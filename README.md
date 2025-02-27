@@ -1,5 +1,5 @@
 ## 关键词
-prompt、搜索器、角色、SDXL、comfyui、webui、tag、ai绘画、原神、华为
+prompt、搜索器、角色、SDXL、comfyui、webui、tag、ai绘画、原神
 
 ## 一些废话
 没啥好说的，下载后直接打开网站就能用
