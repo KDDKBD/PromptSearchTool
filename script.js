@@ -1395,6 +1395,9 @@ const prompts = [
     { en: "ijichi_nijika", cn: "伊地知虹夏（孤独摇滚）" },
     { en: "Yamada Ryo", cn: "山田凉（孤独摇滚）" },
     { en: "Kita Ikuyo", cn: "喜多郁代（孤独摇滚）" },
+    { en: "Hiiragi Utena", cn: "柊舞缇娜（憧憬成为魔法少女）" },
+    { en: "Oyama Mahiro", cn: "绪山真寻（别当欧尼酱）" },
+    { en: "Oyama Mihari", cn: "绪山美波里（别当欧尼酱）" },
 ];
 
 // 初始化侧边栏内容
