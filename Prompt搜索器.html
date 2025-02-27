@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>AI绘画Prompt搜索工具</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="sidebar" id="sidebar">
+        <div class="sidebar-header">全部Prompt列表</div>
+        <div class="sidebar-content"></div>
+    </div>
+    
+    <div class="container">
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="输入关键词搜索prompt...">
+        </div>
+        
+        <div id="results" class="results-container"></div>
+        
+        <div class="output-area">
+            <div id="outputBox" class="output-box"></div>
+            <button id="copyBtn">一键复制</button>
+            <button id="clearBtn" style="margin-left:10px">一键删除</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
