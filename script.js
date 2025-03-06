@@ -1,5 +1,27 @@
 // 初始化prompt数据集（示例数据）
 const prompts = [
+    { en: "Gotoh Hitori", cn: "后藤一里波奇酱（孤独摇滚）" },
+    { en: "ijichi_nijika", cn: "伊地知虹夏（孤独摇滚）" },
+    { en: "Yamada Ryo", cn: "山田凉（孤独摇滚）" },
+    { en: "Kita Ikuyo", cn: "喜多郁代（孤独摇滚）" },
+    { en: "Hiiragi Utena", cn: "柊舞缇娜（憧憬成为魔法少女）" },
+    { en: "Oyama Mahiro", cn: "绪山真寻（别当欧尼酱）" },
+    { en: "Oyama Mihari", cn: "绪山美波里（别当欧尼酱）" },
+    { en: "Frieren", cn: "芙莉莲（葬送的芙莉莲）" },
+    { en: "Fern", cn: "费伦（葬送的芙莉莲）" },
+    { en: "Stark", cn: "修塔尔克（葬送的芙莉莲）" },
+    { en: "Aquamarine_Hoshino", cn: "星野阿库亚（我推的孩子）" },
+    { en: "Denji", cn: "电次（电锯人）" },
+    { en: "Makima", cn: "玛奇玛（电锯人）" },
+    { en: "Satoru_Gojo", cn: "五条悟（咒术回战）" },
+    { en: "Yuta_Okkotsu", cn: "乙骨忧太（咒术回战）" }
+    { en: "Marcille", cn: "玛露希尔（迷宫饭）" },
+    { en: "Laios", cn: "莱欧斯（迷宫饭）" },
+    { en: "Daring_Tact_(umamusume)", cn: "谋勇兼备（赛马娘）" },
+    { en: "Chevreuse", cn: "夏沃蕾（原神）" },
+    { en: "Gaming", cn: "嘉明（原神）" },
+    { en: "Acheron", cn: "黄泉（崩坏：星穹铁道）" },
+    { en: "Robin", cn: "知更鸟（崩坏：星穹铁道）" },
     { en: "2b_(nier:automata)", cn: "2B（尼尔：自动人形）" },
     { en: "35p_(sakura_miko)", cn: "35p（樱巫女）" },
     { en: "9s_(nier:automata)", cn: "9S（尼尔：自动人形）" },
@@ -1391,13 +1413,6 @@ const prompts = [
     { en: "ziche_fuzhao", cn: "子车伕鍣" },
     { en: "zidane_tribal", cn: "基达·特利巴尔" },
     { en: "zuihou_(kancolle)", cn: "瑞凤（舰队Collection）" },
-    { en: "Gotoh Hitori", cn: "后藤一里波奇酱（孤独摇滚）" },
-    { en: "ijichi_nijika", cn: "伊地知虹夏（孤独摇滚）" },
-    { en: "Yamada Ryo", cn: "山田凉（孤独摇滚）" },
-    { en: "Kita Ikuyo", cn: "喜多郁代（孤独摇滚）" },
-    { en: "Hiiragi Utena", cn: "柊舞缇娜（憧憬成为魔法少女）" },
-    { en: "Oyama Mahiro", cn: "绪山真寻（别当欧尼酱）" },
-    { en: "Oyama Mihari", cn: "绪山美波里（别当欧尼酱）" },
 ];
 
 // 初始化侧边栏内容
