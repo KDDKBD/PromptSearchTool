@@ -14,7 +14,7 @@ const prompts = [
     { en: "Denji", cn: "电次（电锯人）" },
     { en: "Makima", cn: "玛奇玛（电锯人）" },
     { en: "Satoru_Gojo", cn: "五条悟（咒术回战）" },
-    { en: "Yuta_Okkotsu", cn: "乙骨忧太（咒术回战）" }
+    { en: "Yuta_Okkotsu", cn: "乙骨忧太（咒术回战）" },
     { en: "Marcille", cn: "玛露希尔（迷宫饭）" },
     { en: "Laios", cn: "莱欧斯（迷宫饭）" },
     { en: "Daring_Tact_(umamusume)", cn: "谋勇兼备（赛马娘）" },
