@@ -1,5 +1,11 @@
 // 初始化prompt数据集（示例数据）
 const prompts = [
+    { en: "platinium_(arknights)", cn: "白金（明日方舟）" },
+    { en: "dusk_(arknights)", cn: "夕（明日方舟）" },  
+    { en: "elysium_(arknights)", cn: "伊内丝（明日方舟）" },
+    { en: "nearl_the_radiant_knight_(arknights)", cn: "耀骑士临光（明日方舟）" },
+    { en: "saria_(arknights)", cn: "塞雷娅（明日方舟）" },
+    { en: "amiya_(arknights)", cn: "阿米娅（明日方舟）" },
     { en: "Gotoh Hitori", cn: "后藤一里波奇酱（孤独摇滚）" },
     { en: "ijichi_nijika", cn: "伊地知虹夏（孤独摇滚）" },
     { en: "Yamada Ryo", cn: "山田凉（孤独摇滚）" },
